@@ -1,0 +1,9 @@
+.thumbnail > img {
+	height: auto; max-width: 100%;
+}
+.thumbnail a > img {
+	height: auto; max-width: 100%;
+}
+#top img {
+	margin: 0px !important; width: 728px !important;
+}
